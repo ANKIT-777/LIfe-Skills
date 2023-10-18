@@ -47,6 +47,6 @@ SOA can be a powerful tool for improving performance and scaling of applications
 
 ## References
 
-1. [Introduction to Service-Oriented Architecture](https://www.ibm.com/cloud/learn/soa-what-is-soa)
-2. [Service-Oriented Architecture (SOA) Explained](https://www.redhat.com/en/topics/service-oriented-architecture)
-3. [Scalability Best Practices: Lessons from Web Giants](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Hamilton.pdf)
+1. [Introduction to Service-Oriented Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/)
+2. [Service-Oriented Architecture (SOA) Explained](https://www.ibm.com/topics/soa#:~:text=SOA%20is%20an%20integration%20architectural,reuse%20functionality%20in%20other%20applications)
+3. [Scalability Best Practices: Lessons from Web Giants](https://www.infoq.com/articles/ebay-scalability-best-practices/)
